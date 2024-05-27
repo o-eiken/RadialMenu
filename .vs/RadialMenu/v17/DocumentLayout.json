@@ -1,7 +1,39 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|solutionrelative:radialmenu\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenu\\radialmenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|solutionrelative:radialmenu\\radialmenu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenudemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|solutionrelative:radialmenudemo\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenudemo\\radialmenudemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|solutionrelative:radialmenudemo\\radialmenudemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenudemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{45EEBB27-5D54-4E67-9A6A-E15339EFF2F6}|RadialMenuDemo\\RadialMenuDemo.csproj|solutionrelative:radialmenudemo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenu\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|solutionrelative:radialmenu\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|c:\\users\\oddeik\\source\\repos\\radialmenu\\radialmenu\\themes\\pieshape.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D959B4C-A428-4EA7-9197-BE04B37BF256}|RadialMenu\\RadialMenu.csproj|solutionrelative:radialmenu\\themes\\pieshape.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +62,106 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Settings.cs",
+              "RelativeDocumentMoniker": "RadialMenu\\Settings.cs",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Settings.cs",
+              "RelativeToolTip": "RadialMenu\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T21:14:21.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RadialMenu.csproj",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\RadialMenu.csproj",
+              "RelativeDocumentMoniker": "RadialMenu\\RadialMenu.csproj",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\RadialMenu.csproj",
+              "RelativeToolTip": "RadialMenu\\RadialMenu.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T20:47:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\App.xaml",
+              "RelativeDocumentMoniker": "RadialMenuDemo\\App.xaml",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\App.xaml",
+              "RelativeToolTip": "RadialMenuDemo\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:57:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PieShape.xaml",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Themes\\PieShape.xaml",
+              "RelativeDocumentMoniker": "RadialMenu\\Themes\\PieShape.xaml",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Themes\\PieShape.xaml",
+              "RelativeToolTip": "RadialMenu\\Themes\\PieShape.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:56:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RadialMenuDemo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\MainWindow.xaml",
+              "RelativeToolTip": "RadialMenuDemo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:57:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RadialMenuDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\RadialMenuDemo.csproj",
+              "RelativeDocumentMoniker": "RadialMenuDemo\\RadialMenuDemo.csproj",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenuDemo\\RadialMenuDemo.csproj",
+              "RelativeToolTip": "RadialMenuDemo\\RadialMenuDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T20:56:16.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAQwAkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-27T20:56:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "RadialMenu\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\oddeik\\source\\repos\\RadialMenu\\RadialMenu\\Themes\\Generic.xaml",
+              "RelativeToolTip": "RadialMenu\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T20:52:13.913Z"
             }
           ]
         }
